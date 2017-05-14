@@ -79,7 +79,7 @@ class SortieTabView {
 
     private val eventMaps = setOf(
             "-- Page 1 --",
-            "1-1", "1-2",
+            "1-1", "1-2", "1-3",
             "-- Page 2 --",
             "2-1", "2-2",
             "-- Page 3 --",
